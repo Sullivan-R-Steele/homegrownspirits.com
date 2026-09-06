@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (!navVal) return;
         var isActive = (navVal === 'catalog' && path.indexOf('/catalog') !== -1) ||
                        (navVal === 'artists' && path.indexOf('/artists') !== -1) ||
+                       (navVal === 'gallery' && path.indexOf('/gallery') !== -1) ||
                        (navVal === 'policies' && path.indexOf('/policies') !== -1) ||
                        (navVal === 'index' && (path === '/' || path === '/index.html'));
         link.classList.toggle('active', isActive);

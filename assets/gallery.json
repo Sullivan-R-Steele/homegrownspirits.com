@@ -1,0 +1,34 @@
+[
+  {
+    "id": "mountain-silhouette-glass",
+    "title": "Mountain Silhouette",
+    "description": "A sand-etched Appalachian mountain scene created for hand-finished glassware.",
+    "artist": "sullivan-steele",
+    "medium": "glass",
+    "image": ""
+  },
+  {
+    "id": "wv-labor-data",
+    "title": "WV Labor Market",
+    "description": "A data-driven art print turning West Virginia labor trends into a visual landscape.",
+    "artist": "sullivan-steele",
+    "medium": "print",
+    "image": ""
+  },
+  {
+    "id": "engraved-mountain-coasters",
+    "title": "Mountain Coaster Set",
+    "description": "A set of hardwood coasters featuring an engraved mountain design.",
+    "artist": "sullivan-steele",
+    "medium": "wood",
+    "image": ""
+  },
+  {
+    "id": "wv-topographic-relief",
+    "title": "West Virginia Topography",
+    "description": "A printable topographic relief model inspired by the shape and elevation of West Virginia.",
+    "artist": "sullivan-steele",
+    "medium": "digital",
+    "image": ""
+  }
+]

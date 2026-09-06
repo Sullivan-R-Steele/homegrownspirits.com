@@ -4,13 +4,16 @@ var STATIC_ASSETS = [
     '/index.html',
     '/catalog.html',
     '/artists.html',
+    '/gallery.html',
     '/policies.html',
     '/css/shop.css',
     '/js/theme.js',
     '/js/cart.js',
     '/js/nav.js',
+    '/js/gallery.js',
     '/assets/artists.json',
-    '/assets/products.json'
+    '/assets/products.json',
+    '/assets/gallery.json'
 ];
 
 self.addEventListener('install', function (event) {
